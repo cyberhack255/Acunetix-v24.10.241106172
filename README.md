@@ -1,5 +1,9 @@
 # Acunetix-v24.10.241106172
 
+## install config
+```
+wget -qO- https://raw.githubusercontent.com/xiv3r/Acunetix-v24.10.241106172/refs/heads/main/config.sh | sudo sh
+```
 
 ## install the tools
 ```sh
