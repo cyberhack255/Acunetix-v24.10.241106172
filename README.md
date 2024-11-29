@@ -4,9 +4,19 @@
 ```
 wget -qO- https://raw.githubusercontent.com/xiv3r/Acunetix-v24.10.241106172/refs/heads/main/config.sh | sudo sh
 ```
-
+## clone the repo
+```
+git clone https://github.com/xiv3r/Acunetix-v24.10.241106172.git
+```
+```
+cd Acunetix-v24.10.241106172
+```
+## download the acunetix
+```
+wget https://github.com/xiv3r/Acunetix-v24.10.241106172/releases/download/acunetix/acunetix_24.10.241106172_x64.sh
+```
 ## install the tools
-```sh
+```
 sudo bash acunetix_xxxxx.sh
 ```
 ## Once installed let's stop its service
