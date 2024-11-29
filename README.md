@@ -25,13 +25,13 @@ sudo systemctl stop acunetix
 ```
 ## replace wvsc file:
 ```
-sudo cp wvsc /home/acunetix/.acunetix/v_240427095/scanner/wvsc
+sudo cp wvsc /home/acunetix/.acunetix/v_241106172/scanner/wvsc
 ```
 ```
-sudo chown acunetix:acunetix /home/acunetix/.acunetix/v_240226074/scanner/wvsc
+sudo chown acunetix:acunetix /home/acunetix/.acunetix/v_241106172/scanner/wvsc
 ```
 ```
-sudo chmod +x /home/acunetix/.acunetix/v_240427095/scanner/wvsc
+sudo chmod +x /home/acunetix/.acunetix/v_241106172/scanner/wvsc
 ```
 ## to add licenses
 ```sh
