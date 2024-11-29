@@ -21,7 +21,7 @@ sudo chmod +x /home/acunetix/.acunetix/v_240427095/scanner/wvsc
 ```
 ## to add licenses
 ```sh
-sudo rm /home/acunetix/.acunetix/data/lice
+sudo rm /home/acunetix/.acunetix/data/license/*
 ```
 ```
 sudo cp license_info.json /home/acunetix/.acunetix/data/license/
