@@ -17,7 +17,7 @@ wget https://github.com/xiv3r/Acunetix-v24.10.241106172/releases/download/acunet
 ```
 ## install the tools
 ```
-sudo bash acunetix_xxxxx.sh
+sudo bash acunetix_24.10.241106172_x64.sh
 ```
 ## Once installed let's stop its service
 ```sh
